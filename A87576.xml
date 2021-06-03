@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Iesuits character. Or, A description of the wonderfull birth, wicked life, and wretched death, of a Jesuite. A discovery, on purpose made unto this end, that all men knowing him by this description might beware of him, as of one which is the most subtill, obstinate, cruell, counterfeit, ambitious, vitious, treacherous, and rebellious person in the world.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87576</idno><idno type="EEBO-CITATION">99873570</idno>
+  <idno type="VID">156319</idno>
+  <idno type="EEBO-PROQUEST">2240952442</idno>
+  
+            <idno type="STC">Wing J711</idno>
+            <idno type="STC">Thomason E130_29</idno>
+            <idno type="STC">ESTC R9549</idno>
+            <idno type="PROQUEST">99873570</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873570e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156319)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Iesuits character. Or, A description of the wonderfull birth, wicked life, and wretched death, of a Jesuite. A discovery, on purpose made unto this end, that all men knowing him by this description might beware of him, as of one which is the most subtill, obstinate, cruell, counterfeit, ambitious, vitious, treacherous, and rebellious person in the world.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Griffin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Jesuits --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156319:1"/>
+            <p>THE IESUITS CHARACTER. OR, A Description of the wonderfull Birth, wicked Life, and wretched Death, of a JESUITE.</p>
+            <p>A Discovery, on purpose made unto this end, that all men knowing him by this Description might beware of him, as of one which is the most Subtill, Obstinite, Cruell, Counterfeit, Ambitious, Vitious, Treacherous, and Rebellious Person in the WORLD.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Edw. Griffin.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156319:2"/>
+            <pb facs="tcp:156319:2"/>
+            <head>THE IESVITES CHARACTER.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Iesuit is <hi>the Nimblest pated Fellow</hi> that the Pope hath to <hi>send</hi> on his <hi>Errand,</hi> and of most Resolution and Service: but <note n="a" place="margin">They spared not Pope <hi>Sixtus</hi> the fifth in their Pulpits: and it is said, they gave him a Dramme to send him packing, because they thought that he favoured <hi>Henry</hi> the fourth of <hi>France,</hi> before he came to the Crowne▪</note> Least in awe.</p>
+            <p>He is the very <hi>Staffe</hi> on which the Tottering Popedome now Leaneth, strangely Hewn at first out <note n="b" place="margin">
+                  <hi>Ignatius Loy<g ref="char:EOLhyphen"/>ola</hi> a Souldier at the siege of <hi>Pā<g ref="char:EOLhyphen"/>pelune</hi> in <hi>France</hi> where being la<g ref="char:EOLhyphen"/>med and made unfit for the Service of the Warres, he betooke himselfe to reading of the Fathers, and became the first Founder of this Order.</note> of a <hi>Souldier,</hi> and then put into the Popes Hands, when <hi>Luther</hi> tript at his Heels, to stay his Great<g ref="char:EOLhyphen"/>nesse up from Falling: and he is a Chip of the old Blocke (as we say) for he is such a <hi>Staffe,</hi> as carries a Sword in it to cut <hi>the Throat of Monarchies and Kingdomes.</hi>
+            </p>
+            <pb facs="tcp:156319:3"/>
+            <p>
+               <hi>He</hi> is the <hi>Erra Pater</hi> or <hi>Ʋagabond Father</hi> of the Church of <hi>Rome.</hi> He and a roaring Lion the Devill in his company <hi>compasse the Earth too and fro:</hi> and both go on the selfe same errand <hi>seeking whom they may devour.</hi>
+            </p>
+            <p>He is the worst man of the best name: calling himselfe a <hi>Iesuite,</hi> as it were a follower of <hi>Iesu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> he is indeed a (<note n="c" place="margin">Jos. 15. 63.</note>) <hi>Iebusite,</hi> that is, an Enemy to all the Israel of God in the very midst of (<note n="d" place="margin">
+                  <hi>Londo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the Metropolitan City of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as <hi>Ierusalm</hi> of <hi>Iudea.</hi>
+               </note>) <hi>Ierusalem,</hi> and (<note n="e" place="margin">The Israelites could not expell the Iebusites, but they dwelt a<g ref="char:EOLhyphen"/>mongst them, and were as thorn▪ in their sides, in that place of Ios. no more can the English the Iesuit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>) <hi>Israel alas c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>not expell him.</hi>
+            </p>
+            <p>He is the <hi>M<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>olist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> by (<note n="f" place="margin">But of <hi>Paul</hi> 3. of <hi>Iulius</hi> 3. of <hi>P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> 4. &amp; 5. and of <hi>Gr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ory</hi> 13. which Popes gave them se<g ref="char:EOLhyphen"/>verall Privi<g ref="char:EOLhyphen"/>ledges and dispensati<g ref="char:EOLhyphen"/>ons.</note>) <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tent</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as of all <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ges <hi>Ecclesiasticall▪</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> variti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ab<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lings:</hi> whom if you know to day, you may meet and see, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not know to morrow; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as many shapes as <hi>Proteus</hi> had, and as many names as a <hi>Welchman</hi> hath: by these two he avoids all acquaintance both with your eyes and eares; no man is more publikely busie, and yet no man hides his head more: a meere composition he is of <hi>V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illany, Subtilty,</hi> and <hi>Falshood;</hi> and hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very cloths <hi>Equivocate,</hi> in not resembling but dissembling him: whose <hi>Religion</hi> as it is <hi>Papistry,</hi> so we may well call it (<note n="g" place="margin">A French word.</note>) <hi>Papelardie,</hi> that is, fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>Dissimulation,</hi> and <hi>Hypocrisie.</hi>
+            </p>
+            <p>These make him in the Art of <hi>Insinuation</hi> to b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the most absolute <hi>Proficient</hi> of the world, the <hi>Serpent</hi> was a <hi>Bungler</hi> to him: <hi>Confession</hi> is his engine by which he <hi>Skrews</hi> himselfe into acquaintance with all <hi>Affairs,</hi> all <hi>Dispositions;</hi> which he makes the best conducing to his ends, that is, the worst use of. But for this point of <hi>Craft,</hi> he is owing to the <hi>Serpent,</hi> to grow inward with the <hi>Woman</hi> when he dares not immediately adventure on the <hi>Man;</hi> whose <hi>Secrets</hi> whilst he indeavou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to dis<g ref="char:EOLhyphen"/>cover in <hi>Confession,</hi> if she be <hi>Obediently yielding</hi> (a matter which he earnestly presseth her unto, as <hi>a thing simply ne<g ref="char:EOLhyphen"/>cessary to her salvation</hi>) then he proves most <hi>Indulgent</hi> unto her in <hi>Penance,</hi> which himselfe <hi>Acts</hi> upon her; and he is
+<pb facs="tcp:156319:3"/> therefore the most <hi>Impious Lecher</hi> of the world, because he prostitutes not only her <hi>Body,</hi> but her <hi>Conscience</hi> to his <hi>Lust;</hi> the ancient manner of confessing wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the Peni<g ref="char:EOLhyphen"/>tents kneeled at the Confessors <hi>Side,</hi> but he humbleth the women to his <hi>Bosome,</hi> and thus he becomes a Fa<g ref="char:EOLhyphen"/>ther, by his <hi>Supernumerary vow</hi> of (<note n="n" place="margin">Vow of Mission is, that at the command of the Pope or superintendent of his Order, he will go into any part of the world whatsoever, into which either of them two shall send him, which none of any other Order doth take: therefore it is called Supernumerary, as being superadded to the 3 ordinary vowes, and when he hath made this vow, he is then invested with the title of Father.</note>) <hi>Mission</hi> and <hi>get<g ref="char:EOLhyphen"/>ting children.</hi>
+            </p>
+            <p>Of all the <hi>Orders</hi> of and in the <hi>Roman Church</hi> professed, he is the only one <hi>out of all order,</hi> and yet professed; for whereas all of them may be comprited in these two <hi>Secu<g ref="char:EOLhyphen"/>lar</hi> and <hi>Regular,</hi> we cannot say he is a <hi>Regular,</hi> because he injoyeth the Immunities of a <hi>Secular,</hi> and useth nei<g ref="char:EOLhyphen"/>ther (<note n="h" place="margin">That is, he neither liveth in Cloisters, nor weareth a Friers gown with a Cowl or Hood, nor hath his crown sha<g ref="char:EOLhyphen"/>ved as all re<g ref="char:EOLhyphen"/>gulars do and have.</note>) <hi>Cloister, Cowl,</hi> nor <hi>Tonsure;</hi> neither yet can we say that he is a <hi>Secular,</hi> because he <hi>Ʋowes Poverty, Chastity</hi> and <hi>Obedience,</hi> which are the ordinary <hi>Ʋowes</hi> of Religious men and <hi>Regulars:</hi> indeed he is neither <hi>Se<g ref="char:EOLhyphen"/>cular</hi> nor <hi>Regular,</hi> but <hi>Irregular;</hi> who ties himselfe to no <hi>Rule,</hi> but to <hi>Over-rule.</hi>
+            </p>
+            <p>
+               <hi>Ambitious</hi> he is aboue measure, and (impud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntly pursuing the world by his <hi>Practice,</hi> who hath utterly ca<g ref="char:EOLhyphen"/>shierd it by his <hi>vow</hi>) upon the graduall steps of <hi>School<g ref="char:EOLhyphen"/>master</hi> (his (<note n="i" place="margin">
+                  <hi>Ignatius Lo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>la</hi> and his fellows, when first they pre<g ref="char:EOLhyphen"/>sented them<g ref="char:EOLhyphen"/>selves to <hi>Paul</hi> 3. did it under this offer, to teach children for nothing.</note>) first disguise) <hi>Disputant, Publike Lecturer,</hi> and <hi>Rector,</hi> from a <hi>Pendant</hi> he hath rais'd himselfe to that greatnesse in which now he stands: he hath bin a (<note n="k" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olet, Baronius, Bellarmine,</hi> &amp;c. Cardinals, and Jesuits.</note>) <hi>Cardinall,</hi> would have bin a (<hi>l) King,</hi> his thoughts are<note place="margin">(<hi>m</hi>) They moved <hi>Schastian</hi> King of <hi>Portuga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> (being childles) a great fautour of their Order, to nominate some one of the Iesuits for his Successour, and to make an Act, that for the time to come the election of the King of <hi>Portugal</hi> should be by the Colledge of the Iesuits, no otherwise than as the Election of the Pope is by the Colledg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Cardinals.</note>
+               <pb facs="tcp:156319:4"/> restlesse, till he be a <hi>Pope,</hi> nay (for that neither will yet, suffice him till he be (<note n="m" place="margin">For this they have laid a Foundation by one of their owne constitutions, which is to this effect, that the same order of which the present Pope is, he being dead, may choose the next: so as if a Iesuit doth obtaine the Popedome at any time▪ that order will never part with it again to any other, or else he is more charitable then I thinke him.</note>) <hi>Onely Pope.</hi>
+            </p>
+            <p>He reads the <hi>Fathers</hi> much, and the Scriptures (not <hi>Pure,</hi> but (<note n="o" place="margin">Which they call In<g ref="char:EOLhyphen"/>dex expur<g ref="char:EOLhyphen"/>gatorius, in which they have altered the Text of the Scripture, expunged whatsoever doth make against them, and added such things as seem more advantagious for them; and and this by authority from the councell of Trent, which firrt began this sacri<g ref="char:EOLhyphen"/>ledge.</note>) <hi>Sophisticated,</hi> mangled and mingled by himselfe, not the <hi>Bible</hi> but the <hi>Trent Index</hi>) a little to confute <hi>Hereticks,</hi> that is <hi>Protestants,</hi> but most of all <hi>Ma<g ref="char:EOLhyphen"/>chiavil</hi> to confound Princes, that is h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Master-work:</hi> no attempt hapneth against any King or Prince in Christendom, but it hath him either for the Projector, or abetter, like the <hi>Salamander</hi> he lives in Fire and him<g ref="char:EOLhyphen"/>selfe first kindles it, he is the <hi>Alastor</hi> and <hi>Fury</hi> that <hi>Sowes</hi> calamities, Plagues and Death amongst men; the peace of Princes is his <hi>Bane,</hi> their <hi>Quarrels</hi> both his <hi>Pastime</hi> and <hi>Preferment:</hi> if they haue none, he makes some; in which, he alwaies is the chiefest <hi>Stickler, Papists, Atheists,</hi> and <hi>Discontents</hi> his seconds. That the <hi>Sulfureous Breath</hi> which hath lately kindled, and still foments, and increa<g ref="char:EOLhyphen"/>seth these present <hi>Western</hi> Flames was blowen from the <hi>Bellowes</hi> of his <hi>Lungs,</hi> and that his <hi>Mouth</hi> (like that of the <hi>Dragons</hi>) did spit this fire, it is not to be <hi>doub<g ref="char:EOLhyphen"/>ted of.</hi>
+            </p>
+            <p>A <hi>Papist</hi> might be a <hi>Richer, Honester,</hi> and <hi>Happier</hi> man then alwaies he is, but only for <hi>Him,</hi> he is ever and anon <hi>Emptying</hi> his <hi>purse,</hi> ever and anon <hi>Thrusting</hi> him upon some <hi>Disloyall</hi> and <hi>Desperate practise,</hi> under the pretence of <hi>Religion</hi> in prosecution of his own secret <hi>Ends</hi> and <hi>Policies:</hi> the event whereof is (if not the Death of his body upon the Discovery, yea of his Soule too, that D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yalty not repented of) yet the just indignation of the King o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdome so unjustly dealt withall, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot a<g ref="char:EOLhyphen"/>gainst his own person conceived only in particular, but now <hi>against the whole b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy of that partiality,</hi> to <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> generall
+<pb facs="tcp:156319:4"/> detriment;</hi> (which being a <hi>Iust indignation for Treason,</hi> yet th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Iesuit</hi> hath a trick to make it odious to the world, by calling it an <hi>Ʋnjust persecution for Religion:</hi> to recompence the Traitor in shew, if he dieth for the Fact (and to incourage others to the like undertakings when<g ref="char:EOLhyphen"/>soever at his instance) he procureth the Pope to make him (<note n="a" place="margin">So were <hi>Percy, Catesby,</hi> and the rest of the Pow<g ref="char:EOLhyphen"/>dermen made Martyrs at <hi>Rome,</hi> who died for trea<g ref="char:EOLhyphen"/>son here in <hi>England.</hi>
+               </note>) a <hi>Martyr.</hi> The <hi>Papist</hi> calleth a <hi>Iesuite</hi> Father; so doth the <hi>Iesuite</hi> also call the <hi>Papist</hi> his Sonne, but he maketh him his <hi>Slave.</hi>
+            </p>
+            <p>His principall <hi>Errand</hi> (as commonly conjectured) is to gaine the absolute Soveraignty of the <hi>Western Empire</hi> by these stirs unto his great <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enefactor and Protector, the <hi>King of Spain,</hi> and so to settle the <hi>Catholick Religion</hi> (that is, the Religion of the <hi>Church of Rome,</hi> for so he calls it) by and under him as under one <hi>Temporall head</hi> throughout all <hi>Christendom;</hi> (in disposition whereunto, as giving an <hi>Omen</hi> thereof, the <hi>Pope</hi> hath therefore already stiled the <hi>King of Spain</hi> with the Title of the <hi>Catholick King</hi>) and for this reason it is (as thought) that the <hi>Ie<g ref="char:EOLhyphen"/>suite</hi> doth never practice against the <hi>King of Spain,</hi> but (<note n="b" place="margin">And when he hath made his vowes, at his first entry into the or<g ref="char:EOLhyphen"/>der, he addeth this Brevet in favour of the King of <hi>Spai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> I pray (saith he) that all Kings may be children, blind, unwise▪ unhappy, and that the King of <hi>Spa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> may Reigne alone.</note>) for him. But wiser judgements doe foresee, that it is to get the <hi>absolute Monarchy of the whole World unto the Pope</hi> (and, by a plot consequent thereto, to his own or<g ref="char:EOLhyphen"/>der at last) whose <hi>Stale,</hi> to bring in the game and gaine to them by the <hi>Iesuites</hi> fine policy the <hi>King</hi> of <hi>Spaine</hi> is made: and therefore it is that he doth seeke so highly to advance the <hi>Power,</hi> and <hi>Authortiy</hi> of the <hi>Pope,</hi> even in Temporall matters, aboue that of <hi>Kings,</hi> and hath brought the <hi>King of Spaine</hi> himselfe also his opinion to submit thereunto. In the prosecution of t<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s project he is apt to be be designed against any King or Prince whatsoever, <hi>Yea his owne▪ Iudas</hi> was one of the society of <hi>Iesus,</hi> as is he; and he as forward to <hi>betray his owne Master to gaine by it,</hi> as was <hi>Iudas,</hi> and a <hi>Iesuite</hi> is a <hi>Iu<g ref="char:EOLhyphen"/>dasite,</hi> a <hi>Loyalist</hi> a flat <hi>Disloyalist.</hi> and, as he is complya<g ref="char:EOLhyphen"/>ble with <hi>Iudas</hi> in his Fact, which was <hi>Treason;</hi> so he is also with him in his <hi>Punishmen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which is, to have his
+<pb facs="tcp:156319:5"/>
+               <hi>Neck brok<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and his <hi>Bowels rent forth,</hi> that is, to be hang'd and quartered, and so to goe with <hi>Iudas</hi> to his owne place. If there be any difference between them in their <hi>Ruines,</hi> it falls out in the person of the Executio<g ref="char:EOLhyphen"/>ner, for, whereas <hi>Iudas hang'd himselfe,</hi> the <hi>Common Hangman hangs the Iesuite;</hi> who as he makes his <hi>En<g ref="char:EOLhyphen"/>trance</hi> hither by <hi>Tibur</hi> so hath this Destiny sometimes, to make his <hi>Exit</hi> hence againe by <hi>Tiburn,</hi> and well de<g ref="char:EOLhyphen"/>serves it, if they will not abide from hence, It will ne<g ref="char:EOLhyphen"/>ver be well with <hi>England,</hi> till they be all <hi>Hang'd:</hi> and they have my <hi>Ʋote</hi> for it.</p>
+         </div>
+         <div type="anagram">
+            <head>IESVITE <hi>Anagramme</hi> I USE IET.</head>
+            <p>The meaning.</p>
+            <lg>
+               <l>IET by a certaine secret power doth draw,</l>
+               <l>Light things unto it self, as Chaff and Stra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>I ƲSE False Glosses, Reasons counterfeit</l>
+               <l>But plansible, which have the power of IET.</l>
+            </lg>
+            <lg>
+               <l>The secret verine to draw men (as much)</l>
+               <l>Light of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lief to <hi>Rome,</hi> and none but such.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
